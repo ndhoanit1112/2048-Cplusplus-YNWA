@@ -1,0 +1,42 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B                                              B
+B                                       x      B
+B                                 x     x      B
+B                                 xx    xx     B
+B            x              x     XX    xx     B
+B             x     xxxxxxxxx     XX  x XX  x  B
+B            xxxxxxxxx xxx      xxX  x  XX  x  B
+B               x xxXxxxxxx   xxXX  x  Xx  xx  B
+B              XXXXXXXXxxx   xXX  xx  Xx  xx   B
+B             x       XX    XX  xx  xx   xx    B
+B          x x       XXX  XXx  xx  xx  Xxx     B
+B         x x     XXXXxxXXx   XX  xx  XX       B
+B               XXXXxxXXx   XXx XXx  XX        B
+B             XXXXXXxxxx xXXXX xx  xX          B
+B            Xx XXxxXXx XXXX  xx xx   x        B
+B           XX  XXxxX xxXXX xx  xx  xx         B
+B          xXX  XXXXxxXXXXXXX  xx  xx          B
+B          xXX  XXXXXXXXXXxX  Xx  xx           B
+B           XXx  XXXXXXXxxXXx xxxxx            B
+B            Xxx  XXXXxxX  xxx                 B
+B             XXX  xXXXXxx   xx                B
+B              XXXX XXXXXXx   xXXx             B
+B                xXXXXXXXXX    xxX             B
+B                 XXxx  XXXX     xx            B
+B                 XXXX  XXXX      xx           B
+B                XXXXX  XXXXX      x           B
+B                 XX      XX       x           B
+B                xx        xx                  B
+B               xx          xx                 B
+B             xxxx          XX                 B
+B       xxXXXXxxxxxx    XXXXxxxxxx             B
+B                                              B
+B                                              B
+B     .XX..XX..XX..XX..XX...XX...XXXX..        B
+B     ..XXXX...XXX.XX..XX...XX..XX..XX.        B
+B     ...XX....XX.XXX..XX.X.XX..XXXXXX.        B
+B     ...XX....XX..XX..XXXXXXX..XX..XX.        B
+B     ...XX....XX..XX...XX.XX...XX..XX.        B
+B     .................................        B
+B                                              B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
